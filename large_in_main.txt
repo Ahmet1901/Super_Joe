@@ -1,0 +1,11 @@
+Library/ArtifactDB 67108864
+Library/PackageCache/com.unity.burst@59eb6f11d242/.Runtime/burst-llvm-18-arm64.dll 53147136
+Library/PackageCache/com.unity.burst@59eb6f11d242/.Runtime/burst-llvm-18.dll 57245696
+Library/PackageCache/com.unity.burst@59eb6f11d242/.Runtime/burst-llvm-19-arm64.dll 55445504
+Library/PackageCache/com.unity.burst@59eb6f11d242/.Runtime/burst-llvm-19.dll 59168256
+Library/PackageCache/com.unity.burst@59eb6f11d242/.Runtime/hostmac/dsymutil 71878160
+Library/PackageCache/com.unity.burst@59eb6f11d242/.Runtime/libburst-llvm-10.dylib 78363520
+Library/PackageCache/com.unity.burst@59eb6f11d242/.Runtime/libburst-llvm-18.dylib 133813984
+Library/PackageCache/com.unity.burst@59eb6f11d242/.Runtime/libburst-llvm-18.so 71903048
+Library/PackageCache/com.unity.burst@59eb6f11d242/.Runtime/libburst-llvm-19.dylib 137702224
+Library/PackageCache/com.unity.burst@59eb6f11d242/.Runtime/libburst-llvm-19.so 74018088
