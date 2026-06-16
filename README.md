@@ -17,7 +17,7 @@ Super Joe, Unity oyun motoru kullanılarak geliştirilmiş bir 2D platform oyunu
 ## Kurulum
 1. Repoyu bilgisayarınıza klonlayın veya indirin:
    ```bash
-   git clone https://github.com/Ahmet1901/demo2.git
+   git clone https://github.com/Ahmet1901/Super_Joe.git
    ```
 2. Unity Hub'ı açın ve "Add" butonuna tıklayarak bu projenin klasörünü seçin.
 3. Projeyi Unity editörü ile açın.
